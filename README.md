@@ -1,4 +1,4 @@
-<p align="center" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/api?username=oldarbakr&show_icons=true&theme=gruvbox" alt="oldarbakr" /></a> </p>
+<p align="center" width="100%"> <a href="#"><img src="https://github-profile-trophy.vercel.app/api?username=oldarbakr&show_icons=true&theme=gruvbox" alt="oldarbakr" /></a> </p>
 
    
 <!-- <h3 align="left">Languages and Tools:</h3>
