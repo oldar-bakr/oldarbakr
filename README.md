@@ -46,6 +46,3 @@
    <img height="26px" src="https://img.shields.io/badge/Discord-7289d9?style=flat&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
    </a> -->
 
-### Snake eating my contribution graph 😀😀
-
-![snake gif](https://github.com/fatihilhan42/fatihilhan42/blob/output/github-contribution-grid-snake.svg)
